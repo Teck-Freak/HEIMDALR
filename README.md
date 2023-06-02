@@ -9,13 +9,13 @@ Heating, Cooling, Ventilation, Air-Conditioning, Lighting, Airflow and Electrici
 Results will be viewed in colored heatmaps, displacements or our very own floor-plan plots.
 
 Keep in mind, HEIMDALR is still in early development. Once completed it shall have ist watchfull eyes on:
-    Heating (and cooling)
-    Electricity
-    Infiltration (and ventilation)
-    Materials (design and amounts)
-    Districts & Distribution (as in district heating, etc.)
-    Accoustics
-    Lighting and
-    Renderings
+    - Heating (and cooling)
+    - Electricity
+    - Infiltration (and ventilation)
+    - Materials (design and amounts)
+    - Districts & Distribution (as in district heating, etc.)
+    - Accoustics
+    - Lighting and
+    - Renderings
 
 Further it is planned to allow for switchable simulation backends and to be portable.
