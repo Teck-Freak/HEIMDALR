@@ -6,7 +6,7 @@ In a simmilar fashion, this software guards the bridge between a model and its s
 HEIMDALR stands for "House Energy Intake Model for Displays Analysis Lightmaps & Renderings".
 It is a suite of tools for fast and for detailed simulations of buildings in regard to
 Heating, Cooling, Ventilation, Air-Conditioning, Lighting, Airflow and Electricity demands.
-Results will be viewed in colored heatmaps, displacements or our very own floor-plan plots.
+Results will be viewed in diagrams, colored heatmaps, displacements, 3D-geometry or our very own floor-plan plots.
 
 Keep in mind, HEIMDALR is still in early development. Once completed it shall have ist watchfull eyes on:
     - Heating (and cooling)
